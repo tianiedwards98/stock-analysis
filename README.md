@@ -7,14 +7,17 @@ This Project was meant to research the stock market over the years of 2017 & 201
 
 **2017 Results**
 In the 2017 results, based on the formatting I can see that the there were a lot more positive returns in the stock market of that year. Given that for most of teh tickers the results are green.
+
 ![Table](https://github.com/tianiedwards98/stock-analysis/blob/main/resources/Image%2010-19-22%20at%204.33%20PM%202.jpeg?raw=true)
 
 **2018 Results**
 In the 2018 Results, based on the formatting I can see that this was not a good year for returns as most of teh returns are red or in the negative percentile.
+
 ![Table](https://github.com/tianiedwards98/stock-analysis/blob/main/resources/Image%2010-19-22%20at%204.34%20PM.jpeg?raw=true)
 
 **Execution Times**
 Although Both datasets have pretty opposite returns in the stock market the execution time for both of them are close. In the snippet that I got the 2018 results were executed 0.0039062 seconds faster than the 2017 results.
+
 ![Picture](https://github.com/tianiedwards98/stock-analysis/blob/main/resources/Image%2010-19-22%20at%204.33%20PM.jpeg?raw=true)
 ![Picture](https://github.com/tianiedwards98/stock-analysis/blob/main/resources/Image%2010-19-22%20at%204.35%20PM.jpeg?raw=true)
 
