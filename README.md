@@ -1,7 +1,7 @@
 # VPA Challenge: stock-analysis
 
 ## Overview of Project
-This Project was meant to research the stock market over the years of 2017 & 2018.
+This Project was meant to research the stock market datasets over the years of 2017 & 2018.
 
 ## Results
 
@@ -24,4 +24,4 @@ Although Both datasets have pretty opposite returns in the stock market the exec
 ## Summary
 The advantages of refactoring code is that in the process it can improve the design or cleanliness of the code, it also can make the code easier to understand. It also helps to find bugs and find ways of executing the code or program faster. The disadvantages of refactoring code is that it is time consuming, and that there is a chance of making a mistake that will just take up more time trying to figure it out.
 
-These apply to the refactoring of teh original VPA script because in refactoring the code I did run into a couple errors that I had not seen before in the original script that took some time to solve even if tehy were simple changes. However, after going through the motions of refactoring the code I have a better understanding of how it works. 
+These apply to the refactoring of teh original VPA script because in refactoring the code I did run into a couple errors that I had not seen before in the original script that took some time to solve even if tehy were simple changes. However, after going through the motions of refactoring the code I have a better understanding of how it works. Also, by refactoring the code I was able to cut down teh execution time to under 1 second for both datasets.
